@@ -10,7 +10,7 @@ git config --global user.email "email@example.com"
 git remote add origin (link of your repository on github)
 ----------------------------------------------------------
 ----------------------------------------------------------
-** To confirm Changes :
+**************** To confirm Changes :
 - first adding them to stagging area : git add .
 - then commit with a suitable commit message :git commit -m "your commit message"
 --------
